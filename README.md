@@ -2,6 +2,8 @@
 
 Refactor an e-commerce website to use Redux to manage global state instead of the Context API
 
+Contributors - Nadja Antonjak
+
 
 ![Screenshot (155)](https://user-images.githubusercontent.com/79078061/129196710-3657d3e2-8e13-4bbb-b34a-535e798e2d32.png)
 ![Screenshot (156)](https://user-images.githubusercontent.com/79078061/129196719-c1ae6566-c16e-4ccd-9ea8-4759e9d9e762.png)
