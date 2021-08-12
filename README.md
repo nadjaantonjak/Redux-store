@@ -10,4 +10,5 @@ Contributors - Nadja Antonjak
 ![Screenshot (157)](https://user-images.githubusercontent.com/79078061/129196724-25e22ad1-b3b2-4abc-98f2-82f38d6df6ab.png)
 
 https://vimeo.com/586314899
+
 https://redux-nadja.netlify.app/
